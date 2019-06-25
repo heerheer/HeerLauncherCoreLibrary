@@ -1,0 +1,6 @@
+E:\HeerLauncherCoreLibrary\HeerLauncherCoreLibrary\bin\Debug\HeerLauncherCoreLibrary.dll
+E:\HeerLauncherCoreLibrary\HeerLauncherCoreLibrary\bin\Debug\HeerLauncherCoreLibrary.pdb
+E:\HeerLauncherCoreLibrary\HeerLauncherCoreLibrary\obj\Debug\HeerLauncherCoreLibrary.csprojAssemblyReference.cache
+E:\HeerLauncherCoreLibrary\HeerLauncherCoreLibrary\obj\Debug\HeerLauncherCoreLibrary.csproj.CoreCompileInputs.cache
+E:\HeerLauncherCoreLibrary\HeerLauncherCoreLibrary\obj\Debug\HeerLauncherCoreLibrary.dll
+E:\HeerLauncherCoreLibrary\HeerLauncherCoreLibrary\obj\Debug\HeerLauncherCoreLibrary.pdb
