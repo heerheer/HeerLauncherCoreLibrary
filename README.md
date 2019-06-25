@@ -1,6 +1,8 @@
 # HeerLauncherCoreLibrary
 HeerLauncherCoreLibrary启动类库
-> 新的启动？
+
+> 新的启动<
+
 现在我们推出了几个启动类
 MinecraftStartHelper
 Game
